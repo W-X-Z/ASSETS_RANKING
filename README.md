@@ -13,12 +13,15 @@
 ## 설치 및 실행
 - bash
 
-##의존성 설치
+## 의존성 설치
 - npm install
-##개발 서버 실행
+
+## 개발 서버 실행
 - npm run dev
-##API 서버 실행 (새 터미널에서)
+
+## API 서버 실행 (새 터미널에서)
 - npm start
+
 ## 기술 스택
 - D3.js: 데이터 시각화
 - Express: API 서버
